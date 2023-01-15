@@ -5,8 +5,9 @@ body{
 }
 header{
     background-color: #FFF4E7;
-    /* height: 100vh; */
 }
+
+
 /* Nav section  styles start */
 nav{
     display: flex;
@@ -86,6 +87,8 @@ button:hover{
     margin-bottom: 20px;
 }
 
+
+
 /* Quick List Our Feature styles start */
 main{
     width: 80%;
@@ -119,6 +122,8 @@ main{
 .quick-color{
     color: #727272;
 }
+
+
 
 /* Features you will love & enjoy section  styles start */
 .feature-list{
@@ -178,6 +183,8 @@ main{
     background-color: lightskyblue;
     color: #000000;
 }
+
+
 
 
 /* some fact section style start */
@@ -264,6 +271,7 @@ main{
 
 
 
+
 /* Our sponsor section style start */
 .sponsors-title{
     text-align: center;
@@ -294,6 +302,7 @@ main{
 
 
 
+
 /* footer section style start */
 .footer{
     display: flex;
@@ -311,9 +320,11 @@ main{
     text-align: center;
 }
 
+
 /* 
 Media Query start here
 */
+
 /* Responsive For Mobile device */
 
 @media screen and (max-width:576px){
@@ -404,7 +415,6 @@ Media Query start here
     .some-fact-details:hover{
         background-color: #FF900E;
         width: 100%;
-        
       }
 
     /* Extra section responsive */
@@ -445,12 +455,3 @@ Media Query start here
         margin-bottom: 100px;
     }
 }
-
-
-
-/* main{
-    display: none;
-}
-nav{
-    display: none;
-} */
